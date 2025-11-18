@@ -22,16 +22,19 @@ Features **categories, priorities, dark mode, drag-and-drop**, and a **completed
 ## 📸 Screenshots
 
 ### Main Task List
-![Task List](screenshots/homepage.png)
+![Task List](screenshots/HomeScreen.png)
 
-### Completed Tasks Section
-![Completed Tasks](screenshots/completed-tasks.png)
+### Added Tasks
+![Added Tasks](screenshots/Added-task.png)
 
-### Dark Mode
-![Dark Mode](screenshots/darkmode.png)
+### Darkmode
+![Darkmode](screenshots/Darkmode.png)
 
-### Drag & Drop
-![Drag & Drop](screenshots/drag-drop.gif)
+### Filter-task-by-category
+![Filter-task-by-category](screenshots/Filter-task-by-category.png)
+
+### Filter-task-by-category2
+![Filter-task-by-category2](screenshots/Filter-task-by-category2.png)
 
 ---
 
