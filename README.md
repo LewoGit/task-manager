@@ -1,8 +1,8 @@
 # Task Manager 📝
 
 A modern, interactive **Task Manager** web application built with **React**, **Tailwind CSS**, and **@hello-pangea/dnd**.  
-Features **categories, priorities, dark mode, drag-and-drop**, and a **completed tasks section** for efficient task organization. Perfect for showcasing in your portfolio or resume.
-
+Features **categories, priorities, dark mode, drag-and-drop**, and a **completed tasks section** 
+Fully deployed on GitHub Pages: [Live Demo](https://LewoGit.github.io/task-manager/)
 ---
 
 ## 🌟 Features
