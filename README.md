@@ -25,7 +25,7 @@ Features **categories, priorities, dark mode, drag-and-drop**, and a **completed
 ![Task List](screenshots/HomeScreen.png)
 
 ### Added Tasks
-![Added Tasks](screenshots/Added-task.png)
+![Added Tasks](screenshots/Added-tasks.png)
 
 ### Darkmode
 ![Darkmode](screenshots/Darkmode.png)
