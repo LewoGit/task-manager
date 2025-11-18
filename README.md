@@ -33,17 +33,10 @@ Features **categories, priorities, dark mode, drag-and-drop**, and a **completed
 ### Filter-task-by-category
 ![Filter-task-by-category](screenshots/Filter-task-by-category.png)
 
-### Filter-task-by-category2
-![Filter-task-by-category2](screenshots/Filter-task-by-category2.png)
+### Deployment
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-## 🛠 Technologies
+### `npm run build` fails to minify
 
-- React
-- Tailwind CSS
-- @hello-pangea/dnd (Drag & Drop)
-
----
-
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
